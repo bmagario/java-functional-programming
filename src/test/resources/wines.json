@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Cabernet Sauvignon",
+    "grapeVariety": "Cabernet Sauvignon",
+    "year": 2018,
+    "price": 100,
+    "foodPairing": "Red meat, steak, lamb"
+  },
+  {
+    "name": "Pinot Noir",
+    "grapeVariety": "Pinot Noir",
+    "year": 2019,
+    "price": 50,
+    "foodPairing": "Chicken, fish, pasta"
+  },
+  {
+    "name": "Chardonnay",
+    "grapeVariety": "Chardonnay",
+    "year": 2020,
+    "price": 75,
+    "foodPairing": "Seafood, chicken, pasta"
+  },
+  {
+    "name": "Merlot",
+    "grapeVariety": "Merlot",
+    "year": 2017,
+    "price": 80,
+    "foodPairing": "Red meat, steak, lamb"
+  },
+  {
+    "name": "Shiraz",
+    "grapeVariety": "Shiraz",
+    "year": 2016,
+    "price": 90,
+    "foodPairing": "Red meat, lamb, game"
+  },
+  {
+    "name": "Riesling",
+    "grapeVariety": "Riesling",
+    "year": 2021,
+    "price": 60,
+    "foodPairing": "Asian food, seafood, chicken"
+  },
+  {
+    "name": "Zinfandel",
+    "grapeVariety": "Zinfandel",
+    "year": 2019,
+    "price": 70,
+    "foodPairing": "Red meat, pizza, pasta"
+  },
+  {
+    "name": "Sauvignon Blanc",
+    "grapeVariety": "Sauvignon Blanc",
+    "year": 2020,
+    "price": 55,
+    "foodPairing": "Fish, chicken, salads"
+  },
+  {
+    "name": "Champagne",
+    "grapeVariety": "Chardonnay, Pinot Noir, Pinot Meunier",
+    "year": 2021,
+    "price": 120,
+    "foodPairing": "Appetizers, desserts, celebrations"
+  },
+  {
+    "name": "Grenache",
+    "grapeVariety": "Grenache",
+    "year": 2018,
+    "price": 65,
+    "foodPairing": "Meat stews, lamb, pizza"
+  },
+  {
+    "name": "Gewürztraminer",
+    "grapeVariety": "Gewürztraminer",
+    "year": 2019,
+    "price": 75,
+    "foodPairing": "Spicy food, Asian food, cheeses"
+  },
+  {
+    "name": "Tempranillo",
+    "grapeVariety": "Tempranillo",
+    "year": 2020,
+    "price": 80,
+    "foodPairing": "Red meat, lamb, stews"
+  }
+]

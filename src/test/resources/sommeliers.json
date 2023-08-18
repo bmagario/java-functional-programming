@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Brian Magario",
+    "expertise": "Red wines",
+    "country": "California",
+    "age": 40,
+    "hasWonAward": false
+  },
+  {
+    "name": "Ava Jones",
+    "expertise": "White wines",
+    "country": "Spain",
+    "age": 33,
+    "hasWonAward": true
+  },
+  {
+    "name": "Chloe Miller",
+    "expertise": "Sparkling wines",
+    "country": "France",
+    "age": 26,
+    "hasWonAward": false
+  },
+  {
+    "name": "Diego Fernandez",
+    "expertise": "Italian wines",
+    "country": "Italy",
+    "age": 48,
+    "hasWonAward": true
+  },
+  {
+    "name": "Elena Garcia",
+    "expertise": "French wines",
+    "country": "France",
+    "age": 26,
+    "hasWonAward": false
+  },
+  {
+    "name": "Fernando Lopez",
+    "expertise": "Spanish wines",
+    "country": "Spain",
+    "age": 30,
+    "hasWonAward": false
+  },
+  {
+    "name": "Gabriella Smith",
+    "expertise": "California wines",
+    "country": "California",
+    "age": 28,
+    "hasWonAward": false
+  },
+  {
+    "name": "Henry Williams",
+    "expertise": "New Zealand wines",
+    "country": "New Zealand",
+    "age": 37,
+    "hasWonAward": true
+  },
+  {
+    "name": "Isabella Taylor",
+    "expertise": "Australian wines",
+    "country": "Australia",
+    "age": 35,
+    "hasWonAward": false
+  }
+]
