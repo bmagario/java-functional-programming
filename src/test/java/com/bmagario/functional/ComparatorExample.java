@@ -1,4 +1,4 @@
-package com.bmagario.streams;
+package com.bmagario.functional;
 
 import com.bmagario.models.JsonMockData;
 import com.bmagario.models.Sommelier;
@@ -18,9 +18,8 @@ public class ComparatorExample {
         sommeliers.forEach(
                 sommelier -> System.out.println(sommelier.getName() + " is "
                         + sommelier.getAge() + " years old."));
-
     }
 
-    public static Comparator<Sommelier> compareSommeliersByAge =
+    private Comparator<Sommelier> compareSommeliersByAge =
             Comparator.comparingInt(Sommelier::getAge);
 }
