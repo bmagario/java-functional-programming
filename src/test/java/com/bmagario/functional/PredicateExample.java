@@ -24,7 +24,7 @@ public class PredicateExample {
     }
 
     private Predicate<Wine> isWineRecommendedByAnySommelier = wine -> {
-        List<Sommelier> sommeliers = null;
+        List<Sommelier> sommeliers;
         try {
             sommeliers = JsonMockData.getSommeliers();
             Sommelier.addWines(sommeliers, List.of(wine));
