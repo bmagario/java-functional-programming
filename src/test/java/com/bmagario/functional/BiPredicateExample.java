@@ -9,10 +9,10 @@ import java.util.function.BiPredicate;
 import java.util.stream.Collectors;
 import org.junit.jupiter.api.Test;
 
-public class BiPredicatorExample {
+public class BiPredicateExample {
 
     @Test
-    void biPredicator() throws IOException {
+    void biPredicate() throws IOException {
         List<Sommelier> sommeliers = JsonMockData.getSommeliers();
         List<Wine> wines = JsonMockData.getWines();
         Sommelier.addWines(sommeliers, wines);
